@@ -4,7 +4,7 @@ function CounterApp() {
     const [count, setCount] = useState(0);
 
     const increment = () => {
-        setCount(count + 3);
+        setCount(count + 5);
     };
 
     const decrement = () => {
